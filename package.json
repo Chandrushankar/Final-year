@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "ethers": "^6.13.5",
+    "web3": "^4.16.0"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "@typescript-eslint/eslint-plugin": "^2.34.0",
+    "@typescript-eslint/parser": "^2.34.0",
+    "eslint": "^6.8.0",
+    "hardhat": "^2.22.19",
+    "typescript": "^3.9.10"
+  }
+}
